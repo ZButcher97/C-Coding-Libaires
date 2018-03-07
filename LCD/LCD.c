@@ -55,6 +55,7 @@ void LCD_clearLCD(void) //Function word to clear the LCD
 {
 	LCD_cmdLCD(0x01); 
 }
+//GitHub/SourceTree Test Comment
 
 //---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------//
 void LCD_delayus(unsigned int us)	{	//blocking delay for LCD, argument is approximate number of micro-seconds to delay. - Input is time in seconds
