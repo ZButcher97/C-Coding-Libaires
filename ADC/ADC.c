@@ -15,7 +15,6 @@ void ADC_Initalise(void)
 	
 }
 
-//github comment
 
 unsigned short ADC_Read(void)
 {
